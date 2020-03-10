@@ -1,6 +1,6 @@
-mod functions;
+mod control_flow;
 
 fn main()
 {
-        functions::process();
+        control_flow::process();
 }
