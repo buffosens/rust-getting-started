@@ -1,6 +1,6 @@
-mod control_flow;
+mod common_concepts;
 
 fn main()
 {
-        control_flow::process();
+        common_concepts::control_flow::process();
 }
