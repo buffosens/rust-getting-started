@@ -1,6 +1,6 @@
-mod guessing_game;
+mod functions;
 
 fn main()
 {
-    guessing_game::process();
+        functions::process();
 }

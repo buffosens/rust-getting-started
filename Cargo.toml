@@ -1,5 +1,5 @@
 [package]
-name = "Rust"
+name = "rust-getting-started"
 version = "0.1.0"
 authors = ["buffosens <buffo@luppis.de>"]
 edition = "2018"
